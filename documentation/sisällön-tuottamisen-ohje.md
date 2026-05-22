@@ -46,7 +46,7 @@ TODO: Selite mikä on tagi ja mitä sillä tavoitellaan
 
 ### Aineistokategoriat
 
-RYTV sisältää erilaisia aineistoja. Aineistot on jaettu alla oleviin aineistokategorioihin.
+RYTV sisältää erilaisia aineistoja. Aineistot on jaettu alla oleviin aineistokategorioihin. Myös aineistokategorian tyyppi on tagi.
 
 #### Visio
 
@@ -86,6 +86,8 @@ Asiakirjapohja, joka on vakioitu kansalliseen yhteistoiminnan käyttötarkoituks
 
 Tiedosto <del> tai tietokanta </del> tai schema, joka kuvaa jonkin tiedon rakenteen yhteistoiminnan käyttötarkoituksiin. Voi käyttää erilaisia serialisointiformaatteja, mutta kuvaa tiedonvaihdossa käytettävää tietorakennetta tai toimii esimerkkitiedostona johonkin käyttötarkoitukseen. Esimerkiksi IDS-tiedosto tai json schema jostakin tietorakenteesta <del> bsDD-tietokanta </del>.
 
+<del>
+
 #### Roolikuvaus [Uusi]
 
 Määrittelee roolin ja siihen liittyviä vastuiden ja tehtävien rajauksia. Suositellaan pohjautuvan aina standardiin ja alan vakiintuineisiin käytäntöihin. Mahdollistaa viittaukset tekstistä yhteisesti sovittuun kuvaukseen roolista. Vastaa erityisesti kysymyksiin KUKA ja MITÄ samassa kuvauksessa.
@@ -93,6 +95,8 @@ Määrittelee roolin ja siihen liittyviä vastuiden ja tehtävien rajauksia. Suo
 #### Päätöksentekopiste [Uusi]
 
 Määrittelee jonkin keskeisen vaiheen ja siihen liittyvät roolit (viittaus roolikuvaukseen). Mahdollistaa viittauksen tekstistä kuvaukseen.
+
+</del>
 
 ### Kuva
 
