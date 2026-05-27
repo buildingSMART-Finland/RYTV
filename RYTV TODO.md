@@ -1,5 +1,5 @@
 * [ ] Github branchien asetukset kuntoon
-* [ ] Issues pohjat idealle ja kehitysehdotukselle
+* [ ] Issues pohjat idealle, kehitysehdotukselle ja lähdeviittauksen lisäämiselles
 * [ ] Issuesta ilmoitus ylläpitäjille
 * [ ] Pull request asetukset kuntoon
 * [ ] Poista TODOt sisällön tuottamisen ohjeista
